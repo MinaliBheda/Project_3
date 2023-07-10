@@ -5,7 +5,7 @@ This project aims to visualise the Significant Volcanic Eruption Database is a g
 
 #Deployment of site
 
-Landing page is deployed via https://___________/
+Landing page is deployed via (https://github.com/MinaliBheda/Project_3.git)
 
 The dashboard can be interacted by clicking the volcano type from the dropdown menu which when done displays visulaizations regarding the selected Volcano type.
 
@@ -17,7 +17,7 @@ These instructions will get you a copy of the project up and running on your loc
 #Installation
 
 Clone the repository to your local machine:
-git clone https://github.com/__________________________.git
+git clone https://github.com/MinaliBheda/Project_3.git
 
 
 
